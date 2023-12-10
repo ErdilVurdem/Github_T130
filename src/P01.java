@@ -6,4 +6,8 @@ public class P01 {
 
         System.out.println("İki sayının toplamı "+(a+b));
     }
+
+    //git add .
+    //git commit -m "ikinci gun ilk version"
+    //git push
 }
